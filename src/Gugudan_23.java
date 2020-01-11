@@ -1,9 +1,9 @@
 
 public class Gugudan_23 {
+
 	public static void main(String[] args) {
 		
 		//2dan
-		System.out.println("2dan");
 		System.out.println(2 * 1);
 		System.out.println(2 * 2);
 		System.out.println(2 * 3);
@@ -13,9 +13,8 @@ public class Gugudan_23 {
 		System.out.println(2 * 7);
 		System.out.println(2 * 8);
 		System.out.println(2 * 9);
-		
+
 		//3dan
-		System.out.println("3dan");
 		System.out.println(3 * 1);
 		System.out.println(3 * 2);
 		System.out.println(3 * 3);
@@ -26,4 +25,5 @@ public class Gugudan_23 {
 		System.out.println(3 * 8);
 		System.out.println(3 * 9);
 	}
+
 }
