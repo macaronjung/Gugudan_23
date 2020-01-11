@@ -1,5 +1,5 @@
 
-public class Gugudan {
+public class Gugudan_23 {
 	public static void main(String[] args) {
 		
 		//2dan
